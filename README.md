@@ -1,10 +1,15 @@
 # Tetrix
-Đồ án cuối kì môn KNNN, lớp SS004.M16.CLC Giảng viên: Nguyễn Văn Toàn
-Đồ án Tetrix đươc làm bởi nhóm Five musketeers gồm 5 thành viên:
+This is a project for SS004.M16.CLC (Lecturer:Nguyễn Văn Toàn).Tetrix made by Five musketeers team include:
 + Lê Hoài Thương(leader)
-+ Lương Toàn Bách
-+ Nguyễn Tuấn Anh
-+ Lê Thị Liên
++ Lương Toàn Bách.
++ Nguyễn Tuấn Anh.
++ Lê Thị Liên.
 + Lê Thu Hà. 
-# Cách chơi
-Để di chuyển trái, phải dùng các phím A , D. Thả khối xuống: D. Xoay khối: W. Tạm dừng game: ESC.
+# How to play
+Download Tetrix_code.exe in Tetrix_code folder.
+Interace:
++ Using A to move block to the left.
++ Using D to move block to the right.
++ Using S to move block down faster.
++ Using W to rotate block.
++ Using esc to pause game.
