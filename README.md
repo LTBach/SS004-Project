@@ -8,7 +8,7 @@ _ Tetrix is a special edition of famous old game made by Five musketeers team in
 + Lê Thu Hà.  
 with addition of 2 more kind of block: U and + blocks.
 # How to play
-_ Download Tetrix_code.exe in Tetrix_code folder.
+_ Download Tetrix_code.exe in Tetrix_code folder.  
 _ Interace with game:
 + Using A to move block to the left.
 + Using D to move block to the right.
