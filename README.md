@@ -15,9 +15,7 @@
 * **Year:** Semester 1(2021 - 2022)
 * **Lecturer**:  
   - Theory - Practice - Nguyễn Văn Toàn - *toannv@uit.edu.vn*  
-<!-- Footer -->
-<p align='center'>Copyright © 2021 - Lương Toàn Bách</p>
-# Tetrix
+## Tetrix
 _ This is a project for SS004.M16.CLC (Lecturer:Nguyễn Văn Toàn).  
 _ Tetrix is a special edition of famous old game made by Five musketeers team include:
 + Lê Hoài Thương(leader)
@@ -26,7 +24,7 @@ _ Tetrix is a special edition of famous old game made by Five musketeers team in
 + Lê Thị Liên.
 + Lê Thu Hà.  
 with addition of 2 more kind of block: U and + blocks.
-# How to play
+## How to play
 _ Download Tetrix_code.exe in Tetrix_code folder.  
 _ Interace with game:
 + Using A to move block to the left.
@@ -34,3 +32,5 @@ _ Interace with game:
 + Using S to move block down faster.
 + Using W to rotate block.
 + Using esc to pause game.
+<!-- Footer -->
+<p align='center'>Copyright © 2021 - Lương Toàn Bách</p>
